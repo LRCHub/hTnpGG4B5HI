@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "スターマイン",
+  "base_artist": "Da-iCE",
+  "createdAt": "2025-12-13T11:57:41.481589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スターマイン - From THE FIRST TAKE",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/01_スターマイン_-_From_THE_FIRST_TAKE_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スターマイン",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/02_スターマイン_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スターマイン - From THE FIRST TAKE",
+      "artist": "Da-iCE",
+      "has_synced": false,
+      "path": "select/03_スターマイン_-_From_THE_FIRST_TAKE_Da-iCE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スターマイン",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/04_スターマイン_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スターマイン",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/05_スターマイン_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スターマイン - Star Mine",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/06_スターマイン_-_Star_Mine_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スターマイン - From THE FIRST TAKE",
+      "artist": "Da‐iCE",
+      "has_synced": true,
+      "path": "select/07_スターマイン_-_From_THE_FIRST_TAKE_Da‐iCE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スターマイン",
+      "artist": "Da-iCE",
+      "has_synced": false,
+      "path": "select/pl_01_スターマイン_Da-iCE.txt"
+    }
+  ]
+}
